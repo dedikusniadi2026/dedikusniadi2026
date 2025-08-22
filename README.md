@@ -3,8 +3,8 @@
 🚀 Frontend Developer | 💻 Angular | ⚛️ React | 🟦 TypeScript | 🎨 TailwindCSS
 
 ## About Me
-- 🔭 Currently working on Angular & Next.js projects
-- 🌱 Learning Nuxt.js & SSR
+- 🔭 Currently working on Angular , React.js And React Native projects
+- 🌱 Learning Vuejs , Pinia , Reactjs, zustand
 - 📫 Reach me: dedikusniadi.bisnis@gmail.com
 
 ## My Favorite Stack
