@@ -4,7 +4,7 @@
 
 ## About Me
 - 🔭 Currently working on Angular , React.js And React Native projects
-- 🌱 Learning Vuejs , Pinia , Reactjs, zustand, shadcn , react hook form , zod
+- 🌱 Learning Vuejs , Pinia , Reactjs, zustand, shadcn , react hook form , zod, golang and PostgreSQL
 - 📫 Reach me: dedikusniadi.bisnis@gmail.com
 
 ## My Favorite Stack
