@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dedi Kusniadi
 
-🚀 Frontend Developer | 💻 Angular | ⚛️ React | 🟦 TypeScript | 🎨 TailwindCSS
+🚀 Fullstack Developer | 💻 Angular | ⚛️ React | 🟦 TypeScript | 🎨 TailwindCSS | 🐹 Golang | 🐘 PostgreSQL
 
 ## About Me
 - 🔭 Currently working on Angular , React.js And React Native projects
