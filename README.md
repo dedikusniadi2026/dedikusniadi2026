@@ -12,9 +12,9 @@ I help teams with:
 - Design System yang berantakan (35% bug / sprint → token-based)
 
 ### Links
-🔗 **Portfolio & Case Studies:** https://www.dedikusniadi.my.id/  
-🔗 **LinkedIn:** https://www.linkedin.com/in/dedi-kusniadi/  
-📍 Bandung → Remote | Available Immediately  
+🔗 **Portfolio & Case Studies:** https://www.dedikusniadi.my.id/
+🔗 **LinkedIn:** https://www.linkedin.com/in/dedi-kusniadi/
+📍 Bandung → Remote | Available Immediately
 📧 dedikusniadi.bisnis@gmail.com
 
 ---
@@ -23,38 +23,32 @@ I help teams with:
 
 > All enterprise code is private due to NDA. These are sanitized rebuilds to show architecture & thinking.
 
-#### 1. [logistics-tracking-mock] — WebSocket tracking <1s
+#### 1. logistics-tracking-mock — WebSocket tracking <1s
 National logistics, 1.2M parcels/year, 2,000 dispatchers peak.
 - **Problem:** Map lag 30s on warehouse tablets
 - **Fix:** WebSocket + Web Worker, Zustand per domain, Leaflet code-split
 - **Result:** 30s → <1s, 8.1s → 2.4s on low-end tablets
 - **Stack:** React, TypeScript, Zustand, Leaflet, WebSocket
 
-#### 2. [enterprise-table-virtualization] — 10k rows, 8s → 2s
+#### 2. enterprise-table-virtualization — 10k rows, 8s → 2s
 Retail Group, 250K MAU, 60+ KPIs.
 - **Problem:** First paint 8s, 50k rows in DOM = 5fps
 - **Fix:** Pre-aggregated summary, detail on drill-down, react-window + memo
 - **Result:** 8s → <2s, 5fps → 60fps
 - **Stack:** Vue 3 / React, Pinia, Chart.js, Virtualization
 
-#### 3. [design-tokens-a11y-system] — A11y 62 → 95
+#### 3. design-tokens-a11y-system — A11y 62 → 95
 Telin Enterprise Portal, 100K+ enterprise users.
 - **Problem:** 30% support tickets karena onboarding 5 step, color inconsistent
-- **Fix:** Token system from 【entity-Figma¦canonical_name=Figma】, lazy modules, keyboard nav
+- **Fix:** Token system from Figma, lazy modules, keyboard nav
 - **Result:** 5 → 2 steps, A11y 62 → 95, bundle /2
-- **Stack:** Angular, TypeScript, 【entity-Figma¦canonical_name=Figma】 Tokens, SCSS
+- **Stack:** Angular, TypeScript, Figma Tokens, SCSS
 
 ---
 
 ### 🛠️ My Favorite Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+React • Next.js • TypeScript • Zustand • TailwindCSS • Go • PostgreSQL • Vue.js • Angular
 
 ---
 
-📫 **Open to discuss:** Frontend performance audit, slow dashboard rescue, or design system setup. Let's talk.
+📫 Open to discuss: Frontend performance audit, slow dashboard rescue, or design system setup.
