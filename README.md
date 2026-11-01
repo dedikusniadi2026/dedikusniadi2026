@@ -7,7 +7,7 @@ Ex-Axiata Digital Labs (2020-2023). Now open for remote.
 **I help teams with:** Slow maps & tables (30s → <1s), SPA yang sudah berat di tablet low-end, Design System yang berantakan.
 
 🔗 Portfolio (Case Studies): https://www.dedikusniadi.my.id/
-🔗 LinkedIn: [isi link kamu]
+🔗 LinkedIn: https://www.linkedin.com/in/dedi-kusniadi/
 📍 Bandung → Remote | Available Immediately
 
 #### Featured Work (sanitized demos)
