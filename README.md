@@ -1,17 +1,18 @@
-# 👋 Hi, I'm Dedi Kusniadi
+### Dedi Kusniadi — Senior Frontend Engineer | 13+ Years
 
-🚀 Fullstack Developer | 💻 Angular | ⚛️ React | 🟦 TypeScript | 🎨 TailwindCSS | 🐹 Golang | 🐘 PostgreSQL | java
+I spent 13 years fixing slow dashboards and messy frontend code.
+Ex-Axiata Digital Labs (2020-2023). Now open for remote.
 
-## About Me
-- 🔭 Currently working on Angular , React.js And React Native projects
-- 🌱 Learning Vuejs , Pinia , Reactjs, zustand, shadcn , react hook form , zod, golang and PostgreSQL
-- 📫 Reach me: dedikusniadi.bisnis@gmail.com
+**Core:** React / Next.js / TypeScript / Performance
+**I help teams with:** Slow maps & tables (30s → <1s), SPA yang sudah berat di tablet low-end, Design System yang berantakan.
 
-## My Favorite Stack
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+🔗 Portfolio (Case Studies): https://www.dedikusniadi.my.id/
+🔗 LinkedIn: [isi link kamu]
+📍 Bandung → Remote | Available Immediately
+
+#### Featured Work (sanitized demos)
+👉 [logistics-tracking-mock] — WebSocket tracking <1s, Zustand per domain, Leaflet code-split
+👉 [enterprise-table-virtualization] — 10k rows virtualized, 8s → 2s first paint
+👉 [design-tokens-a11y-system] — A11y 62→95, token-based from 【entity-Figma¦canonical_name=Figma】
+
+> All enterprise code is private (NDA). Demos are sanitized rebuilds to show architecture & thinking.
