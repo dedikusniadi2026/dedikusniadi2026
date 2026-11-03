@@ -1,54 +1,48 @@
-# Dedi Kusniadi — Senior Frontend Engineer | 13+ Years
+# Dedi Kusniadi — Senior Frontend Engineer
+### 13+ Years in Software Dev | 6+ Years Focus Frontend | Ex-Axiata Digital Labs
 
-I spent 13 years fixing slow dashboards and messy frontend code.  
-Ex-Axiata Digital Labs (2020-2023). Now open for remote opportunities.
+I fix slow, heavy dashboards that block operations at national scale.
 
-### Core Focus
-**React / Next.js / TypeScript / Performance**
+**Core:** React / Next.js / TypeScript / Web Performance / Zustand
 
-I help teams with:
-- Slow maps & tables (30s → <1s)
-- SPA yang sudah berat di tablet low-end Android
-- Design System yang berantakan (35% bug / sprint → token-based)
-
-### Links
-🔗 **Portfolio & Case Studies:** https://www.dedikusniadi.my.id/
-🔗 **LinkedIn:** https://www.linkedin.com/in/dedi-kusniadi/
-📍 Bandung → Remote | Available Immediately
-📧 dedikusniadi.bisnis@gmail.com
+📍 Bandung → Open Remote | 🚀 Available Immediately
+🔗 Portfolio: [dedikusniadi.my.id](https://www.dedikusniadi.my.id) | LinkedIn: [dedi-kusniadi](https://www.linkedin.com/in/dedi-kusniadi/) | ✉️ dedikusniadi.bisnis@gmail.com
 
 ---
+
+### What I Do
+I help teams stuck with:
+- **Maps & tables lagging 30s+** → I ship <1s for 2000+ concurrent dispatchers
+- **Dashboards dying on low-end tablets** → LCP 8.1s → 2.4s
+- **Design systems creating bugs** → 35% bugs/sprint → token-based system (A11y 62 → 95)
 
 ### 🚀 Featured Work (Sanitized Demos)
+> Enterprise code is private under NDA. These are architecture rebuilds.
 
-> All enterprise code is private due to NDA. These are sanitized rebuilds to show architecture & thinking.
+**1. logistics-tracking-mock — WebSocket Tracking <1s**
+National Logistics: 1.2M shipments/year, 2,000 dispatchers peak.
+- Problem: Map lag 30s on warehouse tablets
+- Fix: WebSocket + Web Worker, Zustand per-domain, Leaflet code-split
+- Result: 30s → <1s, LCP 8.1s → 2.4s
+- Stack: React, TypeScript, Zustand, Leaflet
 
-#### 1. logistics-tracking-mock — WebSocket tracking <1s
-National logistics, 1.2M parcels/year, 2,000 dispatchers peak.
-- **Problem:** Map lag 30s on warehouse tablets
-- **Fix:** WebSocket + Web Worker, Zustand per domain, Leaflet code-split
-- **Result:** 30s → <1s, 8.1s → 2.4s on low-end tablets
-- **Stack:** React, TypeScript, Zustand, Leaflet, WebSocket
+**2. enterprise-table-virtualization — 50k rows 5fps → 60fps**
+Retail Analytics: 250K MAU
+- Problem: First paint 8s, 50k DOM nodes
+- Fix: Pre-aggregated summary + detail drill-down, react-window + memoization
+- Result: 8s → <2s, 5fps → 60fps
+- Stack: React, Virtualization
 
-#### 2. enterprise-table-virtualization — 10k rows, 8s → 2s
-Retail Group, 250K MAU, 60+ KPIs.
-- **Problem:** First paint 8s, 50k rows in DOM = 5fps
-- **Fix:** Pre-aggregated summary, detail on drill-down, react-window + memo
-- **Result:** 8s → <2s, 5fps → 60fps
-- **Stack:** Vue 3 / React, Pinia, Chart.js, Virtualization
-
-#### 3. design-tokens-a11y-system — A11y 62 → 95
-Telin Enterprise Portal, 100K+ enterprise users.
-- **Problem:** 30% support tickets karena onboarding 5 step, color inconsistent
-- **Fix:** Token system from Figma, lazy modules, keyboard nav
-- **Result:** 5 → 2 steps, A11y 62 → 95, bundle /2
-- **Stack:** Angular, TypeScript, Figma Tokens, SCSS
+**3. design-tokens-a11y-system — A11y 62 → 95**
+Telin Enterprise Portal: 100K+ users
+- Problem: 30% support tickets, inconsistent UI
+- Fix: 【entity-Figma¦canonical_name=Figma】 Token System, lazy modules, keyboard nav
+- Result: Onboarding 5→2 steps, A11y 62→95, bundle /2
 
 ---
 
-### 🛠️ My Favorite Stack
-React • Next.js • TypeScript • Zustand • TailwindCSS • Go • PostgreSQL • Vue.js • Angular
+### 🛠 Stack
+`React` `Next.js` `TypeScript` `Zustand` `Tailwind` `Leaflet` `WebSocket` `Web Workers` `Go` `PostgreSQL` `Vue` `Angular`
 
----
-
-📫 Open to discuss: Frontend performance audit, slow dashboard rescue, or design system setup.
+### 📫 Open For
+Senior / Lead Frontend Engineer (Remote) - Frontend Performance Audit / Slow Dashboard Rescue / Design System Setup
