@@ -5,7 +5,7 @@ I fix slow, heavy dashboards that block operations at national scale.
 
 **Core:** React / Next.js / TypeScript / Web Performance / Zustand
 
-📍 Bandung → Open Remote | 🚀 Available Immediately
+📍 Bandung → Open Remote | 🚀 Open to Remote - Senior Frontend (React/Next.js) - Available to interview this week
 🔗 Portfolio: [dedikusniadi.my.id](https://www.dedikusniadi.my.id) | LinkedIn: [dedi-kusniadi](https://www.linkedin.com/in/dedi-kusniadi/) | ✉️ dedikusniadi.bisnis@gmail.com
 
 ---
